@@ -26,6 +26,7 @@ Name:KANIMOZHI K N
 Reg no:212225230126
 Slot: T1-I5
 ---------------------
+```
 import numpy as np
 
 import math
@@ -107,7 +108,7 @@ plt.legend(['Regression Line', 'Data Points'])
 plt.grid(True)
 
 plt.show()
-
+```
 # Output 
 
 <img width="933" height="672" alt="image" src="https://github.com/user-attachments/assets/a0564c85-9fd2-4f8a-abdb-fc95bdd524e4" />
